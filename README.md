@@ -18,3 +18,4 @@ Files of interest:
 - `src/pages/ChallengeDay.jsx`
 - `src/data/mockData.json`
 - `PROMPTS.md` (AI usage log)
+Deployment verification
