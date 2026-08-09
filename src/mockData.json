@@ -1,0 +1,52 @@
+{
+  "profiles": [
+    {
+      "id": "normal",
+      "name": "Pakhi",
+      "currentDay": 12,
+      "totalDays": 60,
+      "streak": 11,
+      "missedYesterday": false,
+      "githubCommits": 8,
+      "linkedinPosts": 10,
+      "achievements": ["7-Day Streak","First Project","10 Posts"],
+      "profileComplete": true
+    },
+    {
+      "id": "missed",
+      "name": "Alex",
+      "currentDay": 12,
+      "totalDays": 60,
+      "streak": 10,
+      "missedYesterday": true,
+      "githubCommits": 5,
+      "linkedinPosts": 2,
+      "achievements": ["5-Day Streak"],
+      "profileComplete": true
+    },
+    {
+      "id": "new",
+      "name": "Sam",
+      "currentDay": 1,
+      "totalDays": 60,
+      "streak": 0,
+      "missedYesterday": false,
+      "githubCommits": 0,
+      "linkedinPosts": 0,
+      "achievements": [],
+      "profileComplete": false
+    },
+    {
+      "id": "empty",
+      "name": "",
+      "currentDay": 0,
+      "totalDays": 60,
+      "streak": 0,
+      "missedYesterday": false,
+      "githubCommits": 0,
+      "linkedinPosts": 0,
+      "achievements": [],
+      "profileComplete": false
+    }
+  ]
+}
